@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^1.6.4",
     "element-ui": "^2.2.1",
     "fs-readdir-recursive": "^1.1.0",
     "htmlparser2": "^3.9.2",
